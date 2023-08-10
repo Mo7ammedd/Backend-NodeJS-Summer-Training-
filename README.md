@@ -1,6 +1,6 @@
 # Backend-NodeJS-Summer-Training
 
-Welcome to the Backend Node.js Summer Training repository! This project aims to provide a comprehensive introduction to backend development using Node.js during the summer training period.
+Welcome to the Backend Node.js Summer Training repository! This project aims to provide a comprehensive introduction to backend development using Node.js during the summer training period in ITI Suez Canal University.
 
 ## Table of Contents
 
