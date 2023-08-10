@@ -9,7 +9,6 @@ Welcome to the Backend Node.js Summer Training repository! This project aims to 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -54,10 +53,6 @@ Before you begin, ensure you have the following prerequisites:
    ```bash
    npm install
    ```
-
-## Usage
-
-[Provide instructions on how to use your project. This could include running examples, testing, etc.]
 
 ## Contributing
 
