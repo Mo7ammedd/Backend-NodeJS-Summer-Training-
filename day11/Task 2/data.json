@@ -1,0 +1,17 @@
+[
+    {
+        "name": "mohammed",
+        "age": 20,
+        "address": "ismailia"
+    },
+    {
+        "name": "mohamed",
+        "age": 21,
+        "address": "tal elkeber"
+    },
+    {
+        "name": "abdo",
+        "age": 50,
+        "address": "tal elkeber"
+    }
+]

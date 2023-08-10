@@ -1,0 +1,19 @@
+[
+    {
+     "id" : 1 ,
+     "name" : "Mohammed" , 
+     "address" : "Ismailia"
+    },
+
+    {
+     "id" : 2 ,
+     "name" : "Mostafa" ,
+     "address" : "PortSaid"
+    },
+    
+    {
+     "id" : 3 , 
+     "name" : "Fatma" ,
+     "address" : "Cairo"
+    }
+]

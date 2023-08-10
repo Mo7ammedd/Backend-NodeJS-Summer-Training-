@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+        <script>
+var table = document.createElement("table");
+
+for (var i = 0; i < 3; i++) {
+  // Create a new row element
+  var row = document.createElement("tr");
+
+  for (var j = 0; j < 4; j++) {
+    var column = document.createElement("td");
+
+    column.textContent = "Row " + (i + 1) + ", Column " + (j + 1);
+
+    row.appendChild(column);
+  }
+
+  table.appendChild(row);
+}
+
+document.body.appendChild(table);
+
+        </script>
+    </body>
+</html>
